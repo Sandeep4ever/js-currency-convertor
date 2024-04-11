@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Converter NPM Package
 
 This is a simple currency converter web application that allows users to convert currency values from one currency to another using real-time exchange rates.
 
@@ -27,9 +27,6 @@ This is a simple currency converter web application that allows users to convert
 This application uses the ExchangeRate-API to fetch real-time exchange rates. You can find more information about the API [here](https://www.exchangerate-api.com/).
 
 ## Technologies Used
-
-- HTML
-- CSS
 - JavaScript
 
 ## License
